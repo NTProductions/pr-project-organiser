@@ -1,1 +1,2 @@
 # pr-project-organiser
+Easily organise your Premiere Pro project to move video, audio, and images to their own folders. With this script you can select specific file types you would like to include in each section.
